@@ -2,7 +2,7 @@
   "name": "anish__cashews",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sathyasivamloganathan.github.io/react_project",
+  "homepage": "https://sathyasivamloganathan.github.io/react",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.4",
     "@sefailyasoz/react-carousel": "^1.1.1",
@@ -67,11 +67,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sathyasivamloganathan/react_project.git"
+    "url": "git+https://github.com/sathyasivamloganathan/react.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sathyasivamloganathan/react_project/issues"
+    "url": "https://github.com/sathyasivamloganathan/react/issues"
   }
 }
