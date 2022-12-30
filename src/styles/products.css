@@ -18,6 +18,9 @@
     }
 }
 
+.product-img{
+    margin-bottom: 30px;
+}
 
 canvas{
     display: block;

@@ -14,7 +14,7 @@
 
 
 .background__img{
-    background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.9)), url(../assests/images/homeImg2.jpg);
+    background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.9)), url(../assests/images/homeImg.jpg);
     width: 100%;
     height: 100vh;
     background-size: cover;

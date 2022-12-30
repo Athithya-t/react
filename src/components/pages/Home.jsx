@@ -12,7 +12,6 @@ import Form from "../forms/Form";
 import ReactWhatsapp from 'react-whatsapp'
 
 
-
 const Home = () => {
   
   
@@ -99,8 +98,7 @@ const Home = () => {
                   </div>
                   <h5 className="services__head">Support</h5>
                   <p>
-                    We deliver promising customer support before and after
-                    purchase from us
+                  Any questions you may have will be promptly addressed by our team of committed customer service representatives
                   </p>
                 </div>
               </Col>
@@ -125,8 +123,7 @@ const Home = () => {
                   </div>
                   <h5 className="services__head">Delivery</h5>
                   <p>
-                    After purchase, we assure you the best, safest and quickest
-                    delivery near your door step
+                  We offer fast and reliable shipping options to get your products to you as soon as possible
                   </p>
                 </div>
               </Col>

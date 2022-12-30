@@ -7,7 +7,6 @@ const routes = () => {
         <Routes>
             <Route path='/' element={<Navigate to='/home'/>} />
             <Route path='/aboutUs '/>
-
         </Routes>
         </HashRouter>
     );
