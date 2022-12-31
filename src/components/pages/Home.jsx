@@ -157,7 +157,7 @@ const Home = () => {
                 </p>
 
                 <p className="contactUs__details">
-                  Phone number:&nbsp;&nbsp; <a class="mobileNo" href="tel:9976980345">9976980345</a>,&nbsp;&nbsp;<a class="mobileNo" href="tel:9894676871">9894676871</a>,&nbsp;&nbsp;</br><a class="mobileNo" href="tel:9940558651">9940558651</a> 
+                  Phone number:&nbsp;&nbsp; <a class="mobileNo" href="tel:9976980345">9976980345</a>,&nbsp;&nbsp;<a class="mobileNo" href="tel:9894676871">9894676871</a>,&nbsp;&nbsp;<a class="mobileNo" href="tel:9940558651">9940558651</a> 
                 </p>
 
                 <p className="contactUs__details">
