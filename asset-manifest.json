@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.c4046bfc.css",
-    "main.js": "/react/static/js/main.1a30307f.js",
+    "main.css": "/react/static/css/main.8706e9fb.css",
+    "main.js": "/react/static/js/main.ec014bb6.js",
     "static/js/787.1dcf7c0b.chunk.js": "/react/static/js/787.1dcf7c0b.chunk.js",
     "static/media/w210.png": "/react/static/media/w210.a54b118c140a1cfd1f3d.png",
-    "static/media/lwp.png": "/react/static/media/lwp.5634fa5800013ba99b15.png",
     "static/media/homeImg.jpg": "/react/static/media/homeImg.236de2be5a3123ae7ea6.jpg",
     "static/media/anish.png": "/react/static/media/anish.c68fbe68b3304573613c.png",
     "static/media/remixicon.svg?t=1590207869815": "/react/static/media/remixicon.9cedd2150922ead84869.svg",
@@ -17,13 +16,14 @@
     "static/media/contact.jpg": "/react/static/media/contact.0e356a6a17c51f7ae282.jpg",
     "static/media/remixicon.woff2?t=1590207869815": "/react/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "static/media/FSSAI_logo.png": "/react/static/media/FSSAI_logo.ff36cd5bc3fac92b77e6.png",
+    "static/media/lwp.jpg": "/react/static/media/lwp.0dacb21fa58a5f31d926.jpg",
     "index.html": "/react/index.html",
-    "main.c4046bfc.css.map": "/react/static/css/main.c4046bfc.css.map",
-    "main.1a30307f.js.map": "/react/static/js/main.1a30307f.js.map",
+    "main.8706e9fb.css.map": "/react/static/css/main.8706e9fb.css.map",
+    "main.ec014bb6.js.map": "/react/static/js/main.ec014bb6.js.map",
     "787.1dcf7c0b.chunk.js.map": "/react/static/js/787.1dcf7c0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4046bfc.css",
-    "static/js/main.1a30307f.js"
+    "static/css/main.8706e9fb.css",
+    "static/js/main.ec014bb6.js"
   ]
 }
