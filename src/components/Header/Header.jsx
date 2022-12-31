@@ -11,7 +11,7 @@ const Header = () => {
     <section>
     <div className='nav__wrapper'>
         <div className='logo'>
-            <h3 className='company__name'>ANISH CASHEWS</h3>
+            <h1 className='company__name'>ANISH CASHEWS</h1>
         </div>
 
 

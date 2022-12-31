@@ -31,7 +31,7 @@ const Home = () => {
                   always smile
                 </p>
 
-                <ReactWhatsapp number="+91 9940558651">
+                <ReactWhatsapp number="+91 9976980345">
                   <div className="whatsAppIcon">
                   <i class="ri-whatsapp-line"></i>
                 </div>
@@ -65,7 +65,7 @@ const Home = () => {
               </Col>
               <Col lg="6" md="6" sm="6">
                 <div className="aboutus__Img">
-                  <img src={anish} alt="logo" />
+                  <img src={anish} alt="Anish Cashews" />
                 </div>
               </Col>
             </Row>
@@ -150,14 +150,14 @@ const Home = () => {
           <section>
             <Row>
               <Col lg="6" md="6" className="contact">
-                <h5 className="companyname__contactUs">ANISH CASHEWS</h5>
+                <h1 className="companyname__contactUs">ANISH CASHEWS</h1>
                 <p className="contactUs__details">
                   647, Kumbakonam main road, Kadampuliyur, Panruti Cuddalore,
                   Tamilnadu - 607103
                 </p>
 
                 <p className="contactUs__details">
-                  Phone number:&nbsp;&nbsp; <a class="mobileNo" href="tel:9894676871">9894676871</a>,&nbsp;&nbsp;<a class="mobileNo" href="tel:9940558651">9940558651</a> 
+                  Phone number:&nbsp;&nbsp; <a class="mobileNo" href="tel:9976980345">9976980345</a>,&nbsp;&nbsp;<a class="mobileNo" href="tel:9894676871">9894676871</a>,&nbsp;&nbsp;<a class="mobileNo" href="tel:9940558651">9940558651</a> 
                 </p>
 
                 <p className="contactUs__details">

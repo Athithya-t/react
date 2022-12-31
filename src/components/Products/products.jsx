@@ -6,7 +6,7 @@ import w320 from '../../assests/images/w320.png';
 import w240 from '../../assests/images/w240.png';
 import jh from '../../assests/images/jh.png'
 import w210 from '../../assests/images/w210.png'
-import lwp from '../../assests/images/lwp.png'
+import lwp from '../../assests/images/lwp.jpg'
 const products = () => {
 
     const products=[
@@ -38,7 +38,7 @@ const products = () => {
                 {
                     products.map((item,index)=>(
                         <div lg='6' md='6' sm='12' key={index} className='product-img'>
-                            <img src={item.img} alt='product-img'/>
+                            <img src={item.img} alt='Anish Cashews'/>
                             <p>{item.name}</p>
                         </div>
                     ))
